@@ -1,0 +1,93 @@
+
+header {
+    background-color: rgb(243, 250, 250);
+    padding: 2px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+ul, li, a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 3px;
+    color: blue;
+}
+}
+#logo {
+    line-height: 2px;
+}
+body {
+    background-image: url('girl.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+.cent {
+    position: relative;
+    left: 777px;
+    top: 150px;
+    width: 400px;
+    color: rgb(67, 67, 129);
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cent2 {
+    position: relative;
+    left: 260px;
+    padding: 20px;
+    top: 120px;
+    color: black;
+    font-size: 18px;
+    width: 400px;
+    text-align: center;
+    margin: 10px 500px;
+}
+.cent3 {
+    position: relative;
+    left: 780px;
+    top: 150px;
+    width: 400px;
+    color: rgb(235, 46, 46);
+    font-size: 18px;
+}
+.but {
+    position: relative;
+    left: 800px;
+    bottom: -110px ;
+    padding: 8px;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.but2 {
+    position: relative;
+    left: 800px;
+    bottom: -110px ;
+    padding: 8px;
+    background-color: rgb(226, 43, 58);
+    border-radius: 5px;
+}
+footer {
+    background-color: rgb(196, 233, 233);
+    position: relative;
+    bottom: -400px;
+}
+.foot1 {
+    position: relative;
+    left: 300px;
+    bottom: -25px;
+    width: 250px;
+}
+.foot2 {
+    position: relative;
+    left: 900px;
+    bottom: 35px;
+    width: 200px;
+}
+.consult {
+    border: 3px;
+    padding: 8px;
+    width: fit-content;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
